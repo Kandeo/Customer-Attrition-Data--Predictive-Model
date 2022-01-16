@@ -1,1 +1,1 @@
-# Customer-Attrition-Prediction
+# Customer-Attrition-Predictive Model
